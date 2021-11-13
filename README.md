@@ -1,7 +1,7 @@
 # Arduino-RPM-meter
 Arduino RPM meter based on interrupts 
 
-Ive been working on making a DC treadmill motor run in a PID loop for a lathe application.  Why?  Well because its there I guess and I like to recycle.   The tradmill motor I have is a permanent magnet type, and has an optical speed sensor, using a slotted disk (36 holes) mounted on the motor shaft and a slotted optocoupler.
+Ive been working on making a DC treadmill motor run in a PID loop for a lathe application.  Why?  Well because its there I guess and I like to recycle.   The treadmill motor I have is a permanent magnet type, and has an optical speed sensor, using a slotted disk (36 holes) mounted on the motor shaft and a slotted optocoupler.
 
 Since the treadmill circuit has a 16F690 PIC and the electronics to drive the opto, I didnt have to design any of the electronics other than the pulse counter. 
 
